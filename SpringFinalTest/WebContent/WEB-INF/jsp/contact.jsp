@@ -5,7 +5,8 @@
 </head>  
 <body>  
 <h2>Contact Manager</h2>  
-<form:form method="post" action="addContact.html">  
+<form:form method="post" action="addContact.html"> 
+<!-- just comment entered to test --> 
   
     <table>  
     <tr>  

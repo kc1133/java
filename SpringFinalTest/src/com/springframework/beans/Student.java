@@ -1,12 +1,9 @@
 package com.springframework.beans;
 
 public class Student {
- 
-
+//commit master brachge
 //from E
-
-//change in branch
-
+//main
 	   private Integer age;
 	   private String name;
 	   private Integer id;

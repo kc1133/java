@@ -16,7 +16,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="PERSON")
 public class Person {
- 
+ //comment
     @Id
     @Column(name="id")
     @GeneratedValue(strategy=GenerationType.IDENTITY)
